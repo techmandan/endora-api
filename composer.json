@@ -1,0 +1,19 @@
+{
+    "name": "techmandan/endora-api",
+    "type": "library",
+    "description": "Endora API library",
+    "keywords": ["endora","api"],
+    "homepage": "https://github.com/techmandan/endora-api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Bulant",
+            "email": "me@danbulant.eu",
+            "homepage": "https://danbulant.eu",
+            "role": "Owner"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
