@@ -2,6 +2,7 @@
     "name": "techmandan/endora-api",
     "type": "library",
     "description": "Endora API library",
+    "version": "v0.1.1-beta1",
     "keywords": ["endora","api"],
     "homepage": "https://github.com/techmandan/endora-api",
     "license": "MIT",
