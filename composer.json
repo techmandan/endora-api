@@ -6,6 +6,9 @@
     "keywords": ["endora","api"],
     "homepage": "https://github.com/techmandan/endora-api",
     "license": "MIT",
+    "support": {
+        "email": "me@danbulant.eu"
+    },
     "authors": [
         {
             "name": "Daniel Bulant",
