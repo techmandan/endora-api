@@ -1,4 +1,4 @@
 language: php
 rvm:
  - 7.0
-sudo: false # faster builds
+sudo: false
