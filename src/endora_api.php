@@ -82,4 +82,13 @@ class endora_api{
 			return false;
 		}
 	}
+	public function expire(){
+		global $endora_api,$endora_connected;
+		if($endora_connected == true){
+			return $endora_api['variant']['expire'];//vrátí danou hodnotu
+		} else {
+			trigger_error("API nepropojeno", E_USER_ERROR);//musí být připojen
+			return false;
+		}
+	}
 }
