@@ -1,4 +1,4 @@
 language: php
 rvm:
- - 7.0
-sudo: false
+ - 7.1
+sudo: true
