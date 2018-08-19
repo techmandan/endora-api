@@ -1,1 +1,3 @@
 examples/*
+composer.json
+.travis.yml
